@@ -56,7 +56,7 @@ CREATE TABLE IF NOT EXISTS detail_transaksi (
 );
 
 INSERT INTO user (id_user, username, password, role) VALUES 
-(1, 'admin', '$2y$10$wM4c1p9e8l.1w69L6E33ZOnc19Fv1fWp0s/W3i3q3R0zB5s/W3i3q', 'Admin'),
+(1, 'admin', '$2y$10$u.2WS5gxxOXnamOm75bnEeAxyDKvOnlzVD2BZxpWEB1.xDkZsDDwO', 'Admin'),
 (2, 'operator', '$2y$10$eS3q3R0zB5s/W3i3q3R0zOnc19Fv1fWp0s/W3i3q3R0zB5s/W3i3q', 'Operator')
 ON DUPLICATE KEY UPDATE username=username;
 
