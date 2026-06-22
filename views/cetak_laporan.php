@@ -5,7 +5,7 @@
         <span><i class="fa-solid fa-file-lines"></i> Laporan Rekapitulasi Minimarket</span>
         <button class="btn btn-secondary" onclick="window.print()"><i class="fa-solid fa-print"></i> Cetak Seluruh Laporan</button>
     </div>
-    <p>Sistem Kasir Minimarket - Proyek Tugas Kuliah Abdul Zabar (NIM: 0)</p>
+    <p>Sistem Kasir Minimarket - Proyek Tugas Kuliah Abdul Zabar</p>
 </div>
 
 <div class="card">

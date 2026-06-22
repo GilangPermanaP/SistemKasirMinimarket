@@ -5,7 +5,7 @@
         <span><i class="fa-solid fa-house"></i> Dashboard</span>
         <span>Welcome back, <?php echo htmlspecialchars($_SESSION['user']['username']); ?>!</span>
     </div>
-    <p>Sistem Kasir Minimarket - Proyek Tugas Kuliah atas nama Abdul Zabar (NIM: 0)</p>
+    <p>Sistem Kasir Minimarket - Proyek Tugas Kuliah atas nama Abdul Zabar</p>
 </div>
 
 <div class="stats-grid">
